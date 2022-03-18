@@ -1,0 +1,8 @@
+data/*/
+model/
+output/
+result/
+*.out
+*.png
+*.pyc
+.vscode/
