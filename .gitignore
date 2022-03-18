@@ -6,3 +6,4 @@ result/
 *.png
 *.pyc
 .vscode/
+code/back/
